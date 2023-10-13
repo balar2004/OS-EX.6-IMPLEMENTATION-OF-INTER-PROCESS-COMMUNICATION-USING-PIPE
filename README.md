@@ -45,6 +45,6 @@ int main()
 }
 ```
 ## Output:
-
+![inter](https://github.com/balar2004/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118791778/3726e2b3-f05a-467a-8b1a-25d33363ed3c)
 ## Result:
 Thus, IPC using pipes mechanisms is illustrated using c program successfully.
